@@ -1,0 +1,6 @@
+{
+    "mongoURI": "mongodb+srv://syafiq:12345@remond-app.oxw2p.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "jwtsecret": "mysecrettoken",
+    "githubClientId": "44746a5f7e2db04ef540",
+    "githubSecret": "3d5da9a716c7b00248d93b0187c0155fd9dcc134"
+}
